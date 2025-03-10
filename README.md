@@ -1,3 +1,5 @@
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/simple-line-chart-seven)
+
 # React + TypeScript + Vite
 
 ## Задание
@@ -17,3 +19,5 @@ npm run dev
 ```
 
 После запуска перейдите на [localhost](http://localhost:3000)
+
+## Deploy [here](https://simple-line-chart-seven.vercel.app/)
