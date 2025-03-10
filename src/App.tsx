@@ -1,8 +1,10 @@
+import CustomLineChart from "./components/customLineChart";
+
 function App() {
   return (
-    <>
-      Hello, World!
-    </>
+    <div className="container">
+      <CustomLineChart />
+    </div>
   );
 }
 
